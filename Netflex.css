@@ -248,7 +248,7 @@ footer div {
     }
 
     .hero{
-        height: calc(100% - 120px);
+        height: calc(100% - 90px);
     }
 
     .hero-buttons{
@@ -257,7 +257,7 @@ footer div {
     }
 
     .main input{
-        padding: 7px 53px 8px 14px;
+        padding: 7px 25px 8px 14px;
     }
     
 /*     .btn-red{
